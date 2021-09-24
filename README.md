@@ -2,7 +2,7 @@
 Emotions dataset for NLP classification tasks
 
 ### About
-This Model is uded to predict the emotion based on text (sentiment analysis). All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. In Training Data i had combined train.txt and val.txt
+This Model is uded to predict the emotion based on text (sentiment analysis). All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. In Training Data I have combined train.txt and val.txt. I have also provide the dataset in this repository and link given below.
 
 ### Models with their Accuracy of Prediction
 Accuracy= 95.5%
