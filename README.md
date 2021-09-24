@@ -6,6 +6,8 @@ This Model is uded to predict the emotion based on text (sentiment analysis). Al
 
 ### Models with their Accuracy of Prediction
 Accuracy= 95.5%
+                 
+                 
                  precision    recall  f1-score   support
 
            0       0.97      0.94      0.96      1080
@@ -13,7 +15,9 @@ Accuracy= 95.5%
 
 ### Note
 ==> Python version 3.9.0 was used for the  project.
+
 ==> You can find all the models https://github.com/rahkum96/Sentiment-Analysis-using-Natural-Language-Processing/blob/main/Sentiments%20Analysis_Emotions%20dataset%20for%20NLP.ipynb
+
 
 ### Steps to run this application in your system
 1. Clone or download the repo.
