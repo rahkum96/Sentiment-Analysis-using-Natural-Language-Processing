@@ -1,6 +1,9 @@
 # Sentiment-Analysis-using-Natural-Language-Processing
 Emotions dataset for NLP classification tasks
 
+![image](https://user-images.githubusercontent.com/86415241/134725150-6de8ff71-8233-429e-a026-d105fa57d6b5.png)
+
+
 ### About
 This Model is uded to predict the emotion based on text (sentiment analysis). All the links for datasets and the python notebooks used for model creation are mentioned below in this readme. In Training Data I have combined train.txt and val.txt. I have also provide the dataset in this repository and link given below.
 
