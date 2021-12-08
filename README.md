@@ -15,9 +15,23 @@ Accuracy= 95.5%
 
            0       0.97      0.94      0.96      1080
            1       0.94      0.97      0.95       920
+## Dependencies
+``` 
+ Keras
+ Tensorflow V2.6.0
+ Pandas
+ Scikit-Learn
+ Numpy
+ python 3.9
+ 
+```
 
-### Note
-==> Python version 3.9.0 was used for the  project.
+## Usage
+
+Just run `jupyter notebook` in terminal and it will run in your browser.
+
+Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
+## Note
 
 ==> You can find all the models https://github.com/rahkum96/Sentiment-Analysis-using-Natural-Language-Processing/blob/main/Sentiments%20Analysis_Emotions%20dataset%20for%20NLP.ipynb
 
