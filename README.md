@@ -26,7 +26,7 @@ Accuracy= 95.5%
  
 ```
 
-## Usage
+## Usage 
 
 Just run `jupyter notebook` in terminal and it will run in your browser.
 
